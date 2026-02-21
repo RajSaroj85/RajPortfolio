@@ -151,11 +151,11 @@ export const SponsorPage: React.FC<SponsorPageProps> = ({
               </div>
             ) : (
               <>
-                <a href="mailto:rajnikantg357@gmail.com" className="bg-white p-4 shadow-sm border border-gray-200 rounded-full hover:bg-gray-50 transition-colors cursor-pointer">
+                <a href="mailto:rajsaroj7991@gmail.com" className="bg-white p-4 shadow-sm border border-gray-200 rounded-full hover:bg-gray-50 transition-colors cursor-pointer">
                   <Mail size={48} className="text-slate-700" />
                 </a>
-                <a href="mailto:rajnikantg357@gmail.com" className="font-hand text-xl text-blue-600 hover:underline font-bold text-center cursor-pointer">
-                  rajnikantg357@gmail.com
+                <a href="mailto:rajsaroj7991@gmail.com" className="font-hand text-xl text-blue-600 hover:underline font-bold text-center cursor-pointer">
+                  rajsaroj7991@gmail.com
                 </a>
               </>
             )}

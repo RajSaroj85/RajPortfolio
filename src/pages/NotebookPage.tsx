@@ -29,11 +29,11 @@ export const NotebookPage: React.FC<NotebookPageProps> = ({
   return (
     <>
       <header className="flex flex-col sm:flex-row items-start gap-6 pt-6 px-6 sm:px-12 mb-4 relative reveal-on-scroll">
-        <div className="relative shrink-0 sm:-ml-4 z-20 self-start sm:self-auto group cursor-pointer">
+              <div className="relative shrink-0 sm:-ml-4 z-20 self-start sm:self-auto group cursor-pointer">
           <div className="bg-white p-1.5 shadow-md border border-gray-200 w-25 h-25 rotate-[-2deg] group-hover:rotate-0 transition-transform duration-300">
             <img 
               src="/R%20logo%201.jpg" 
-              alt="Rajnikant" 
+                    alt="Raj saroj" 
               className="w-20 h-20 object-cover filter sepia-[.2]"
             />
           </div>
@@ -90,11 +90,11 @@ export const NotebookPage: React.FC<NotebookPageProps> = ({
         <section id="home" className="mb-16 pt-2 flex flex-col md:flex-row justify-between items-start gap-8 reveal-on-scroll">
           <div className="flex-1">
             <div className="notebook-text text-2xl sm:text-3xl font-bold uppercase tracking-widest leading-[2rem]">
-              NAME = <span className="font-marker text-3xl sm:text-4xl ml-2">RAJNIKANT GAURAV</span>
+              NAME = <span className="font-marker text-3xl sm:text-4xl ml-2">RAJ SAROJ</span>
             </div>
             <div className="h-8"></div>
             <div className="notebook-text text-xl sm:text-2xl leading-[2rem]">
-              <p>Full Stack Developer & Creative Engineer.</p>
+              <p>JAVA Full Stack Developer & Creative Engineer.</p>
               <p>Turning caffeine into clean code and pixel-perfect UIs.</p>
             </div>
           </div>
@@ -230,35 +230,35 @@ export const NotebookPage: React.FC<NotebookPageProps> = ({
             <div className="mt-4 space-y-2">
               <div className="flex items-center gap-3">
                 <Mail size={20} className={isDarkMode ? 'text-slate-400' : 'text-slate-600'}/> 
-                <a href="mailto:rajnikantg357@gmail.com" className="font-bold hover:text-blue-500 hover:underline decoration-wavy cursor-pointer">
-                  rajnikantg357@gmail.com
+                <a href="mailto:rajsaroj7991@gmail.com" className="font-bold hover:text-blue-500 hover:underline decoration-wavy cursor-pointer">
+                  rajsaroj7991@gmail.com
                 </a>
               </div>
 
               <div className="flex items-center gap-3">
                 <Phone size={20} className={isDarkMode ? 'text-slate-400' : 'text-slate-600'}/>
-                <a href="tel:+917084202503" className="font-bold hover:text-blue-500 hover:underline decoration-wavy cursor-pointer">
-                  +91 7084202503
+                <a href="tel:+918591100328" className="font-bold hover:text-blue-500 hover:underline decoration-wavy cursor-pointer">
+                  +91 8591100328
                 </a>
               </div>
 
               <div className="flex items-center gap-3">
                 <Linkedin size={20} className={isDarkMode ? 'text-slate-400' : 'text-slate-600'}/>
-                <a href="https://www.linkedin.com/in/rajnikant-gaurav-5b70112a2/" target="_blank" rel="noreferrer" className="font-bold hover:text-blue-500 hover:underline decoration-wavy cursor-pointer">
-                  Linkedin/Rajnikant
+                <a href="https://www.linkedin.com/in/rajsaroj" target="_blank" rel="noreferrer" className="font-bold hover:text-blue-500 hover:underline decoration-wavy cursor-pointer">
+                  Linkedin/Raj saroj
                 </a>
               </div>
 
               <div className="flex items-center gap-3">
                 <Github size={20} className={isDarkMode ? 'text-slate-400' : 'text-slate-600'}/>
-                <a href="https://github.com/rajnikant357" target="_blank" rel="noreferrer" className="font-bold hover:text-blue-500 hover:underline decoration-wavy cursor-pointer">
-                  Github/Rajnikant 
+                <a href="https://github.com/rajsarojtsearch" target="_blank" rel="noreferrer" className="font-bold hover:text-blue-500 hover:underline decoration-wavy cursor-pointer">
+                  Github/Raj saroj 
                 </a>
               </div>
 
               <div className="flex items-center gap-3">
                 <Twitter size={20} className={isDarkMode ? 'text-slate-400' : 'text-slate-600'}/>
-                <a href="https://x.com/papercode_" target="_blank" rel="noreferrer" className="font-bold hover:text-blue-500 hover:underline decoration-wavy cursor-pointer">
+                <a href="https://x.com/RajSaroj199689" target="_blank" rel="noreferrer" className="font-bold hover:text-blue-500 hover:underline decoration-wavy cursor-pointer">
                   X/@Papercode_
                 </a>
               </div>

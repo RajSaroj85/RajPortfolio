@@ -9,7 +9,7 @@ export const StickyNoteChat: React.FC = () => {
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
   const [messages, setMessages] = useState<ChatMessage[]>([
-    { role: 'model', text: "Hi! I'm Paper Pots, Rajnikant's AI assistant. Scribble a question below!" }
+    { role: 'model', text: "Hi! I'm Paper Pots, Raj Saroj's AI assistant. Scribble a question below!" }
   ]);
   const messagesEndRef = useRef<HTMLDivElement>(null);
 

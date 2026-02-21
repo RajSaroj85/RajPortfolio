@@ -2,13 +2,13 @@ import { Project } from '../types';
 
 export const projectsData: Project[] = [
   {
-    id: 'prometrion',
-    title: 'PROMETRION',
+    id: 'virtual assistant',
+    title: 'GEN AI Virtual Assistant',
     tagline: 'Battleground for the Next Gen Developers.',
     subTagline: '“Hackathons, minithons, and daily contests that push your skills to the next level.”',
     image: 'https://picsum.photos/seed/prometrion_full/800/400', // Placeholder for full size screenshot
     demoLink: 'https://example.com/prometrion',
-    repoLink: 'https://github.com/rajnikant/prometrion',
+    repoLink: 'https://github.com/Raj saroj/prometrion',
     techStack: ['React', 'Node.js', 'MongoDB', 'Socket.io', 'Docker', 'AWS'],
     overview: 'Prometrion is a next-generation platform that unifies online and offline coding competitions into one seamless ecosystem. It enables companies, colleges, communities, and high-level users to host hackathons, minithons, and daily coding contests—complete with real-time coding collaboration, automated certificate generation, team management, and judging workflows.\n\nPrometrion aims to become the #1 global hub for competitive coding, where coders participate, host, learn, win, and build their identity.',
     problem: [
@@ -48,17 +48,17 @@ export const projectsData: Project[] = [
     ]
   },
   {
-    id: 'paperfolio',
-    title: 'Paperfolio',
-    tagline: 'Personal Notebook Website.',
-    subTagline: '“A digital portfolio that feels like a physical journal.”',
-    image: 'https://picsum.photos/seed/paperfolio_full/800/400',
+    id: 'calculator',
+    title: 'Calculator',
+    tagline: 'Personal Calculator.',
+    subTagline: '“A digital and profeesional calculator.”',
+    image: 'https://picsum.photos/seed/calculator_full/800/400',
     demoLink: '#',
-    repoLink: 'https://github.com/rajnikant/paperfolio',
+    repoLink: 'https://github.com/Raj saroj/calculator',
     techStack: ['React', 'TypeScript', 'Tailwind CSS', 'Gemini API', 'Vite'],
-    overview: 'Paperfolio is a creative portfolio template built with React and Tailwind CSS. It mimics the look and feel of a physical student notebook, complete with paper textures, handwriting fonts, and "taped" photos.',
+    overview: 'this Calculator is desgined by raj saroj and built with Html, CSS and javaScript. It mimics the look and feel of a physical student calculator, complete with paper textures, handwriting fonts, and "taped" photos.',
     problem: [
-      'Standard portfolios look too corporate and boring',
+      'Standard calculator look too corporate and boring',
       'Hard to express personality in minimal themes',
       'Lack of interactive elements that feel organic'
     ],
@@ -70,7 +70,7 @@ export const projectsData: Project[] = [
         'Sticky note chat assistant integration',
         'Dark mode "Dark Copy" aesthetic'
       ],
-      summary: 'Making web portfolios fun and personal again.'
+      summary: 'Design the digital calculator for persoal and real-time uses.'
     },
     market: [
       'Creative developers',
@@ -82,35 +82,35 @@ export const projectsData: Project[] = [
     ]
   },
   {
-    id: 'gemini-vision',
-    title: 'Gemini Vision',
-    tagline: 'AI Image Analyzer.',
-    subTagline: '“Leveraging Google Gemini API to see the world.”',
-    image: 'https://picsum.photos/seed/gemini_full/800/400',
+    id: 'Snake Game',
+    title: 'Dragon Snake',
+    tagline: 'DRS game.',
+    subTagline: '“Leveraging the snake game for playing to all the wprld.”',
+    image: 'https://picsum.photos/seed/snakegame_full/800/400',
     demoLink: '#',
-    repoLink: 'https://github.com/rajnikant/gemini-vision',
+    repoLink: 'https://rajsarojtsearch.github.io/Snake-Game/',
     techStack: ['React', 'Google GenAI SDK', 'Tailwind CSS', 'HTML5 Drag & Drop'],
-    overview: 'An experimental application that uses Google\'s Gemini Multimodal API to analyze images, generate captions, and answer questions about visual content in real-time.',
+    overview: 'An experimental application that uses Google\'s dragon snake games analyse images, playing the game, and count thier score  about visual content in real-time.',
     problem: [
-      'Accessing advanced AI vision models is often complex',
-      'Lack of simple UI for testing prompts with images'
+      'Accessing advanced game vision models is often complex',
+      'Lack of simple design  for dragon game for user to interact with vision models'
     ],
     solution: {
-      intro: 'A straightforward interface for Gemini Vision:',
+      intro: 'A straightforward interface for Dragon Snake Game:',
       features: [
-        'Drag and drop image upload',
+        'Clicl to arrow buttons to play the game',
         'Real-time streaming responses',
-        'Contextual chat based on image content'
+        'Contextual playing based on game content'
       ],
-      summary: 'Democratizing access to multimodal AI.'
+      summary: 'Democratizing access to multimodal Game.'
     },
     market: [
-      'AI enthusiasts',
-      'Developers learning GenAI',
+      'Game enthusiasts',
+      'Developers learning to interact with vision models',
       'Accessibility tools'
     ],
     vision: [
-      'To explore the limits of what browser-based AI integrations can do with zero backend overhead.'
+      'To explore the limits of what browser-based dragon snake game integrations can do with zero backend overhead.'
     ]
   }
 ];

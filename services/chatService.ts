@@ -64,7 +64,7 @@ const KEYWORD_MAP: Record<string, string> = {
   'experience': 'EXPERIENCE',
   'about': 'ABOUT_ME',
   'who': 'ABOUT_ME',
-  'rajnikant': 'ABOUT_ME',
+  'Raj saroj': 'ABOUT_ME',
   'hi': 'GREETING',
   'hello': 'GREETING',
   'paper': 'GREETING',

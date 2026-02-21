@@ -23,13 +23,13 @@ export const intents: Intent[] = [
     type: "fixed",
     patterns: [
       "hi", "hello", "hey", "hey there", "namaste", "namaskar", 
-      "hii rajnikant", "hello bro", "kya haal hai", "how are you", 
+      "hii raj", "hello bro", "kya haal hai", "how are you", 
       "how r u", "kaise ho", "kem cho", "paper pots", "good morning", "good evening",
       "hey paper pots", "hello assistant", "paper pots ho", "tumhara name kya hai",
       "are you paper pots"
     ],
     response:
-      "Hi! I’m Paper Pots 🪴. Ask me about Rajnikant's skills, projects, Prometrion, or contact info!\n\nनमस्ते! मैं Paper Pots हूँ। आप मुझसे रजनीकांत के स्किल्स, प्रोजेक्ट्स, Prometrion या कॉन्टैक्ट के बारे में पूछ सकते हैं!"
+      "Hi! I’m Paper Pots 🪴. Ask me about Raj Saroj's skills, projects, Prometrion, or contact info!\n\nनमस्ते! मैं Paper Pots हूँ। आप मुझसे राज सरोज के स्किल्स, प्रोजेक्ट्स, Prometrion या कॉन्टैक्ट के बारे में पूछ सकते हैं!"
   },
 
   {
@@ -39,7 +39,7 @@ export const intents: Intent[] = [
     patterns: [
       "how are you", "how is he", "kya haal", "kaise ho", 
       "kaisi chal rhi hai", "sab kaisa chal raha hai", "what's up", "wassup",
-      "doing good", "how is rajnikant"
+      "doing good", "how is raj"
     ],
     response:
       "He's doing great, busy building his startup Prometrion! Ask about his projects or skills?\n\nवो बढ़िया हैं, अपने स्टार्टअप Prometrion पर काम कर रहे हैं! उनके प्रोजेक्ट्स या स्किल्स के बारे में पूछें?"
@@ -52,14 +52,14 @@ export const intents: Intent[] = [
     type: "fixed",
     patterns: [
       "who are you", "tell me about yourself", "about you", "about u", 
-      "tum kaun ho", "aap kaun ho", "who is rajnikant", "who is he",
-      "tell me about rajnikant", "about rajnikant", "profile", "bio", "introduction",
-      "tell me about him", "can you introduce rajnikant", "can you introduce him",
-      "who built this website", "rajnikant kaun hai", "thoda introduction de do",
+      "tum kaun ho", "aap kaun ho", "who is raj", "who is he",
+      "tell me about raj", "about raj", "profile", "bio", "introduction",
+      "tell me about him", "can you introduce raj", "can you introduce him",
+      "who built this website", "raj kaun hai", "thoda introduction de do",
       "is portfolio ke owner kaun hain", "owner of this website"
     ],
     response:
-      "Rajnikant is a CS student (2022–26) & aspiring founder. He's currently building Prometrion, a competitive platform for developers.\n\nरजनीकांत एक CS स्टूडेंट (2022–26) और फाउंडर हैं। अभी वो डेवलपर्स के लिए Prometrion प्लेटफॉर्म बना रहे हैं।"
+      "Raj Saroj is a CS student (2022–26) & aspiring founder. He's currently building Prometrion, a competitive platform for developers.\n\nराज सरोज एक CS स्टूडेंट (2022–26) और फाउंडर हैं। अभी वो डेवलपर्स के लिए Prometrion प्लेटफॉर्म बना रहे हैं।"
   },
 
   // 3. Skills / Tech Stack
@@ -72,7 +72,7 @@ export const intents: Intent[] = [
       "what tech stack do you use", "tech stack", "which languages you know", 
       "kon kon si language aati hai", "programming skills", "coding stack",
       "skills", "technology", "technologies", "know", "coding",
-      "what are rajnikants skills", "what tech stack does he use",
+      "what are raj's skills", "what tech stack does he use",
       "which programming languages does he know", "is he a frontend or backend developer",
       "does he know react or nodejs", "uski skills kya hain", 
       "kaun si programming languages aati hain", "web development aata hai kya"
@@ -109,7 +109,7 @@ export const intents: Intent[] = [
       "what projects have you done", "your projects", "his projects",
       "show me your projects", "projects batao", "kya kya banaya hai", 
       "portfolio projects", "side projects", "konsi website banayi hai",
-      "projects", "works", "creations", "what projects has rajnikant worked on",
+      "projects", "works", "creations", "what projects has Raj saroj worked on",
       "can you show me his projects", "what kind of projects does he build",
       "any interesting or startup level projects", "portfolio projects ka overview do",
       "koi real world project banaya hai", "any interesting projects"
@@ -126,7 +126,7 @@ export const intents: Intent[] = [
       "what is prometrion", "tell me about prometrion", "prometrion kya hai", 
       "prometrion ke baare me batao", "your startup", "his startup",
       "your platform", "developer arena platform", "dev competition platform",
-      "prometrion", "why did rajnikant start prometrion", "what problem does prometrion solve",
+      "prometrion", "why did Raj saroj start prometrion", "what problem does prometrion solve",
       "how is prometrion different from other platforms", "prometrion ka idea kaise aaya",
       "ye platform kis cheez ke liye hai", "prometrion vision", "difference between prometrion and other platforms"
     ]
@@ -144,7 +144,7 @@ export const intents: Intent[] = [
       "do you want job or startup", "job chahiye ya business", 
       "startup mindset", "you want to be founder or employee", 
       "how will you become millionaire", "goal", "dream", "ambition",
-      "does rajnikant want a job or a startup", "is he interested in startups",
+      "does Raj saroj want a job or a startup", "is he interested in startups",
       "does he want to be a founder", "what is his long term vision",
       "aage ka plan kya hai", "job karega ya business", "founder or employee"
     ]
@@ -176,12 +176,12 @@ export const intents: Intent[] = [
       "email id", "linkedin", "github", "social media", "reach you", 
       "connect with you", "tumse kaise baat kar sakte hain", 
       "contact kaise kare", "contact", "email", "phone", "message",
-      "how can i contact rajnikant", "can i connect with him on linkedin",
+      "how can i contact Raj saroj", "can i connect with him on linkedin",
       "what is his email address", "can i see his github",
       "linkedin ya github milega", "baat karni ho to kaise karein"
     ],
     response:
-      "Reach him here:\ncall - +91 7084202503\nmail - rajnikantg357@gmail.com\nlinkedin - Rajnikant-Gaurav\nX/twitter - Papercode_\n\nयहाँ संपर्क करें:\ncall - +91 7084202503\nmail - rajnikantg357@gmail.com\nlinkedin - Rajnikant-Gaurav\nX/twitter - Papercode_"
+      "Reach him here:\ncall - +91 8591100328\nmail - rajsaroj7991@gmail.com\nlinkedin - Raj saroj-Gaurav\nX/twitter - Papercode_\n\nयहाँ संपर्क करें:\ncall - +91 8591100328\nmail - rajsaroj7991@gmail.com\nlinkedin - Raj saroj-Gaurav\nX/twitter - Papercode_"
   },
 
   // 10. Resume / CV
@@ -209,7 +209,7 @@ export const intents: Intent[] = [
       "what are your hobbies", "your hobbies", "his hobbies",
       "free time me kya karte ho", "interest kya hai", 
       "what do you do in free time", "timepass kaise karte ho",
-      "hobby", "interest", "what does rajnikant do in his free time",
+      "hobby", "interest", "what does raj do in his free time",
       "tell me his hobbies", "what interests him apart from coding",
       "coding ke alawa kya karta hai", "koi hobbies hain kya"
     ],
@@ -260,7 +260,7 @@ export const intents: Intent[] = [
       "tum kya ho exactly", "who created you"
     ],
     response:
-      "I'm Paper Pots, a digital assistant built by Rajnikant to help you explore his work!\n\nमैं Paper Pots हूँ, एक बॉट जिसे रजनीकांत ने आपके सवालों के जवाब देने के लिए बनाया है!"
+      "I'm Paper Pots, a digital assistant built by Raj saroj to help you explore his work!\n\nमैं Paper Pots हूँ, एक बॉट जिसे राज सरोज ने आपके सवालों के जवाब देने के लिए बनाया है!"
   },
 
   // 15. Appreciation (New)
@@ -269,7 +269,7 @@ export const intents: Intent[] = [
     description: "Compliments",
     type: "fixed",
     patterns: ["good bot", "nice work", "awesome", "great portfolio", "cool website", "love it", "nice"],
-    response: "Aw, thank you! I'll pass the message to Rajnikant. 🪴\n\nशुक्रिया! मैं रजनीकांत को बता दूँगी। 🪴"
+    response: "Aw, thank you! I'll pass the message to Raj saroj. 🪴\n\nशुक्रिया! मैं  को बता दूँगी। 🪴"
   },
 
   // 16. Fallback
@@ -344,9 +344,9 @@ export const knowledgeBase: KnowledgeEntry[] = [
 
 // Structured contact entries (visible text stored in knowledgeBase above, hidden links exported below)
 export const contactLinks: { phone: string; mail: string; linkedin: string; twitter: string } = {
-  phone: 'tel:+917084202503',
-  mail: 'mailto:rajnikantg357@gmail.com',
-  linkedin: 'https://www.linkedin.com/in/rajnikant-gaurav-5b70112a2/',
+  phone: 'tel:+918591100328',
+  mail: 'mailto:rajsaroj7991@gmail.com',
+  linkedin: 'https://www.linkedin.com/in/Raj saroj-gaurav-5b70112a2/',
   twitter: 'https://x.com/papercode_'
 };
 
@@ -355,12 +355,12 @@ knowledgeBase.push({
   id: 'contact_en',
   topic: 'contact',
   language: 'en',
-  text: 'call - +91 7084202503\nmail - rajnikantg357@gmail.com\nlinkedin - Rajnikant-Gaurav\nX/twitter - Papercode_'
+  text: 'call - +91 8591100328\nmail - rajsaroj7991@gmail.com\nlinkedin - Raj saroj-Gaurav\nX/twitter - Papercode_'
 });
 
 knowledgeBase.push({
   id: 'contact_hi',
   topic: 'contact',
   language: 'hi',
-  text: 'call - +91 7084202503\nmail - rajnikantg357@gmail.com\nlinkedin - Rajnikant-Gaurav\nX/twitter - Papercode_'
+  text: 'call - +91 8591100328\nmail - rajsaroj7991@gmail.com\nlinkedin - Raj saroj-Gaurav\nX/twitter - Papercode_'
 });

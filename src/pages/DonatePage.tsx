@@ -100,16 +100,16 @@ export const DonatePage: React.FC<DonatePageProps> = ({
           <div className="flex flex-col items-center gap-4">
             <div className="bg-white p-3 shadow-sm border border-gray-200">
               {selectedTier === 'Graphite' ? (
-                <img src="/GPay_QR_50.png" alt="GPay ₹50 QR" className="w-60 h-60 object-contain" />
+                <img src="/GPay_QR_50.jpeg" alt="GPay ₹50 QR" className="w-80 h-80 object-contain" />
               ) : selectedTier === 'Charcoal' ? (
-                <img src="/GPay_QR_100.png" alt="GPay ₹100 QR" className="w-60 h-60 object-contain" />
+                <img src="/GPay_QR_100.jpeg" alt="GPay ₹100 QR" className="w-80 h-80 object-contain" />
               ) : selectedTier === 'Ink Pot' ? (
-                <img src="/GPay_QR_150.png" alt="GPay ₹150 QR" className="w-60 h-60 object-contain" />
+                <img src="/GPay_QR_150.jpeg" alt="GPay ₹150 QR" className="w-80 h-80 object-contain" />
               ) : (
                 <QrCode size={128} className="text-slate-800" />
               )}
             </div>
-            <p className="font-hand text-slate-600 text-center">UPI ID: rajnikantg357@oksbi</p>
+            <p className="font-hand text-slate-600 text-center">UPI ID: rajsaroj7991-2@okicici</p>
           </div>
         </div>
       </div>

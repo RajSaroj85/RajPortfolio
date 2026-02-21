@@ -40,7 +40,7 @@ export const AboutDetailPage: React.FC<AboutDetailPageProps> = ({
             👋 Short Summary
           </h3>
           <div className="notebook-text text-xl leading-[2rem]">
-            <p>I am Rajnikant Gaurav, a Computer Science Engineering student (2022–2026) and an aspiring founder.</p>
+            <p>I am Raj saroj Gaurav, a Computer Science Engineering student (2022–2026) and an aspiring founder.</p>
             <p>I don't just write code; I build products. My passion lies in solving real-world problems through</p>
             <p>scalable technology and intuitive design. I thrive on late-night coding sessions and</p>
             <p>the thrill of shipping something new to the world.</p>
@@ -95,11 +95,11 @@ export const AboutDetailPage: React.FC<AboutDetailPageProps> = ({
             🌐 My Network
           </h3>
           <div className="flex flex-wrap gap-4 notebook-text text-xl leading-[2rem]">
-            <a href="https://www.linkedin.com/in/rajnikant-gaurav-5b70112a2/" target="_blank" className="flex items-center gap-2 hover:text-blue-500 font-bold hover:underline decoration-wavy">
+            <a href="https://www.linkedin.com/in/Raj saroj/" target="_blank" className="flex items-center gap-2 hover:text-blue-500 font-bold hover:underline decoration-wavy">
               <Linkedin size={20} /> LinkedIn
             </a>
             <span className="text-gray-400">|</span>
-            <a href="https://github.com/rajnikant357"  target="_blank" className="flex items-center gap-2 hover:text-blue-500 font-bold hover:underline decoration-wavy">
+            <a href="https://github.com/Raj saroj357"  target="_blank" className="flex items-center gap-2 hover:text-blue-500 font-bold hover:underline decoration-wavy">
               <Github size={20} /> GitHub
             </a>
             <span className="text-gray-400">|</span>

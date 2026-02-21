@@ -307,7 +307,7 @@ const App: React.FC = () => {
           {/* Copyright Footer (Sticky at bottom of container) */}
           <footer className={`mt-auto pt-16 pb-4 text-center notebook-text text-lg reveal-on-scroll ${isDarkMode ? 'text-slate-500' : 'text-slate-500'}`}>
              <p className="font-hand">
-               © {new Date().getFullYear()} Rajnikant Gaurav. Built with 💻 & ☕.
+               © {new Date().getFullYear()} Raj Saroj. Built with 💻 & ☕.
              </p>
           </footer>
 

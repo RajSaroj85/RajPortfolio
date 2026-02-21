@@ -7,7 +7,7 @@ This README is written as a living document: it describes who I am, my startup j
 **Quick links**
 
 - Live site: `www.rajnikantg.in`
-- Email: `rajnikantg357@gmail.com`
+- Email: `rajsaroj7991@gmail.com`
 - GitHub: `https://github.com/rajnikant357`
 - LinkedIn: `https://www.linkedin.com/in/rajnikant-gaurav-5b70112a2/`
 
@@ -106,7 +106,7 @@ The `src/data/projects.ts` file lists my projects with metadata (title, tagline,
 
 If you want to collaborate, sponsor, or hire me for work:
 
-- Email: `rajnikantg357@gmail.com`
+- Email: `rajsaroj7991@gmail.com`
 - GitHub: `https://github.com/rajnikant357`
 
 If you found an issue in this repo or want to suggest an improvement, please open an issue or a pull request.
@@ -124,9 +124,10 @@ Donation and sponsor flows are included on the site (a few UPI QR images and a s
 
 ## Contact
 
-- Email: `rajnikantg357@gmail.com`
+- Email: `rajsaroj7991@gmail.com`
 - Phone: `+91 7084202503`
 - GitHub: `https://github.com/rajnikant357`
+ 
 
 If you'd like, I can create a short public timeline (with dates), or expand the startup story into separate sections (Idea, Prototype, Launch, Growth, Current). Tell me which format you prefer and I’ll update this README.
 
