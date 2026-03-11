@@ -9,7 +9,7 @@ This README is written as a living document: it describes who I am, my startup j
 - Live site: `www.rajnikantg.in`
 - Email: `rajsaroj7991@gmail.com`
 - GitHub: `https://github.com/rajsarojtsearch`
-- LinkedIn: `https://www.linkedin.com/in/rajnikant-gaurav-5b70112a2/`
+- LinkedIn: `https://www.linkedin.com/in/rajsaroj/`
 
 ---
 
