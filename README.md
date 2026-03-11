@@ -1,4 +1,4 @@
-# Rajnikant Gaurav — Notebookfolio
+# Raj Saroj — Notebookfolio
 
 Welcome — this repository contains my personal portfolio site `Notebookfolio`. The site showcases my projects, thinking, and ways you can support the work (donations, sponsorships, and collaborations).
 
@@ -8,14 +8,14 @@ This README is written as a living document: it describes who I am, my startup j
 
 - Live site: `www.rajnikantg.in`
 - Email: `rajsaroj7991@gmail.com`
-- GitHub: `https://github.com/rajnikant357`
+- GitHub: `https://github.com/rajsarojtsearch`
 - LinkedIn: `https://www.linkedin.com/in/rajnikant-gaurav-5b70112a2/`
 
 ---
 
 ## About Me
 
-I'm Rajnikant Gaurav — a Senior Frontend Engineer and Creative Developer who builds delightful, usable web experiences. I focus on React, TypeScript, and carefully-crafted UI work. I enjoy combining product thinking with polish — turning ideas into well-designed front-end applications.
+I'm Raj Saroj — a Senior Frontend Engineer and Creative Developer who builds delightful, usable web experiences. I focus on React, TypeScript, and carefully-crafted UI work. I enjoy combining product thinking with polish — turning ideas into well-designed front-end applications.
 
 Tech I use regularly:
 
@@ -107,7 +107,7 @@ The `src/data/projects.ts` file lists my projects with metadata (title, tagline,
 If you want to collaborate, sponsor, or hire me for work:
 
 - Email: `rajsaroj7991@gmail.com`
-- GitHub: `https://github.com/rajnikant357`
+- GitHub: `https://github.com/rajsarojtsearch`
 
 If you found an issue in this repo or want to suggest an improvement, please open an issue or a pull request.
 
@@ -125,8 +125,8 @@ Donation and sponsor flows are included on the site (a few UPI QR images and a s
 ## Contact
 
 - Email: `rajsaroj7991@gmail.com`
-- Phone: `+91 7084202503`
-- GitHub: `https://github.com/rajnikant357`
+- Phone: `+91 8591100328`
+- GitHub: `https://github.com/rajsarojtsearch`
  
 
 If you'd like, I can create a short public timeline (with dates), or expand the startup story into separate sections (Idea, Prototype, Launch, Growth, Current). Tell me which format you prefer and I’ll update this README.
@@ -139,4 +139,4 @@ This repository is available under the MIT License. Replace or update this secti
 
 ---
 
-_Last updated: December 2025_
+_Last updated: December 2026_

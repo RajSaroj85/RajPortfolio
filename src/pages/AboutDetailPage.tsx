@@ -40,7 +40,7 @@ export const AboutDetailPage: React.FC<AboutDetailPageProps> = ({
             👋 Short Summary
           </h3>
           <div className="notebook-text text-xl leading-[2rem]">
-            <p>I am Raj saroj Gaurav, a Computer Science Engineering student (2022–2026) and an aspiring founder.</p>
+            <p>I am Raj saroj, a Computer Science Engineering student (2022–2026) and an aspiring founder.</p>
             <p>I don't just write code; I build products. My passion lies in solving real-world problems through</p>
             <p>scalable technology and intuitive design. I thrive on late-night coding sessions and</p>
             <p>the thrill of shipping something new to the world.</p>
@@ -69,11 +69,11 @@ export const AboutDetailPage: React.FC<AboutDetailPageProps> = ({
             <div>
               <h4 className="notebook-text text-xl font-bold underline mb-2 leading-[2rem]">Tech Stack</h4>
               <ul className="list-disc pl-5 notebook-text text-xl leading-[2rem]">
-                <li>JavaScript, TypeScript</li>
-                <li>React, Next.js, Tailwind CSS</li>
+                <li>Java, TypeScript</li>
+                <li>React, Tailwind CSS</li>
                 <li>Node.js, Express, REST APIs</li>
-                <li>Python, </li>
-                <li>Git, GitHub, Vercel</li>
+                <li>Msql, </li>
+                <li>Git, GitHub,</li>
                 <li>GenAI API Integration </li>
               </ul>
             </div>
@@ -82,8 +82,7 @@ export const AboutDetailPage: React.FC<AboutDetailPageProps> = ({
               <ul className="list-disc pl-5 notebook-text text-xl leading-[2rem]">
                 <li>Building side projects</li>
                 <li>Exploring Startup Case Studies</li>
-                <li>Playing Chess</li>
-                <li>Drawing</li>
+                <li>Playing Cricket </li>
               </ul>
             </div>
           </div>
@@ -125,12 +124,12 @@ export const AboutDetailPage: React.FC<AboutDetailPageProps> = ({
               <p className="pl-7 text-sm text-slate-500">Focusing on Full Stack Development & Entrepreneurship.</p>
             </div>
             <div className="mb-4">
-              <p className="font-bold flex items-center gap-2"><MapPin size={20}/> Higher Secondary (12th Grade), SHRI HARI INTER COLLEGE NANAHUL, BALLIA</p>
+              <p className="font-bold flex items-center gap-2"><MapPin size={20}/> Higher Secondary (12th Grade), SHRI Krishana INTER COLLEGE, Mirzapur, UP</p>
               <p className="pl-7 italic">Completed in 2022</p>
               <p className="pl-7 text-sm text-slate-500">Major in Science (PCM).</p>
             </div>
             <div className="mb-4">
-              <p className="font-bold flex items-center gap-2"><MapPin size={20}/> High School (10th Grade), GANDHI INTER COLLEGE, SIKANDERPUR, BALLIA</p>
+              <p className="font-bold flex items-center gap-2"><MapPin size={20}/> High School (10th Grade), SHRI Krishana Inter College, Mirzapur, UP</p>
               <p className="pl-7 italic">Completed in 2020</p>
               <p className="pl-7 text-sm text-slate-500">Major in Science.</p>
             </div>
@@ -145,7 +144,7 @@ export const AboutDetailPage: React.FC<AboutDetailPageProps> = ({
           <ul className="list-none pl-2 notebook-text text-xl leading-[2rem]">
             <li className="flex items-start gap-2 mb-2">
               <Award className="mt-1 text-amber-500 shrink-0" size={20} />
-              <span>Web development inter at OASIS INFOBYTE.</span>
+              <spa>Java Full Stack Development inter at QSpider Jspider Noida.</spa>
             </li>
             <li className="flex items-start gap-2 mb-2">
               <Award className="mt-1 text-amber-500 shrink-0" size={20} />
