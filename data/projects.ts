@@ -2,15 +2,17 @@ import { Project } from '../types';
 
 export const projectsData: Project[] = [
   {
-    id: 'virtual assistant',
-    title: 'GEN AI Virtual Assistant',
+    id: 'WebForge Studio',
+    title: 'webforge studio platform',
     tagline: 'Battleground for the Next Gen Developers.',
     subTagline: '“Hackathons, minithons, and daily contests that push your skills to the next level.”',
     image: '/webforge.jpeg', // Placeholder for full size screenshot
     demoLink: 'https://web-forge-studios.vercel.app/',
     repoLink: 'https://github.com/RajSaroj85?tab=repositories',
     techStack: ['React', 'Typscript', 'Mysql'],
-    overview: 'Web Forge studio is a next-generation platform that unifies online and offline coding competitions into one seamless ecosystem. It enables companies, colleges, communities, and high-level users to host hackathons, minithons, and daily coding contests—complete with real-time coding collaboration, automated certificate generation, team management, and judging workflows.\n\nPrometrion aims to become the #1 global hub for competitive coding, where coders participate, host, learn, win, and build their identity.',
+    overview: 'WebForge Studio is a modern web development studio dedicated to building creative, responsive, and user-friendly digital experiences. We specialize in custom website development, React and TypeScript applications, e-commerce websites, portfolio websites, and modern web applications.\n\nOur focus is on creating visually appealing, fast, secure, and mobile-friendly websites that help businesses establish a strong online presence. From creative UI/UX design to functional web solutions, we aim to turn ideas into impactful digital experiences.
+
+',
     problem: [
       'Offline events lack submission, judging & certificate systems',
       'Online platforms handle only partial workflows',
@@ -20,7 +22,7 @@ export const projectsData: Project[] = [
       'There is no single platform that integrates the end-to-end hackathon lifecycle—online + offline.'
     ],
     solution: {
-      intro: 'Prometrion consolidates the entire hackathon ecosystem:',
+      intro: 'WebForge  consolidates the entire hackathon ecosystem:',
       features: [
         'Full Hackathons (Companies, Admin, Level 50+ users)',
         'Minithons (3-hour rapid contests by Level 30+ users)',
@@ -32,7 +34,7 @@ export const projectsData: Project[] = [
         'Certificates (Gold, Silver, Participant)',
         'Leveling, Badges & Gamified User Growth'
       ],
-      summary: 'Prometrion becomes a coder’s competition profile + portfolio + skill identity.'
+      summary: 'Webforge becomes a coder’s competition profile + portfolio + skill identity.'
     },
     market: [
       'India: 8,000+ colleges, 40,000+ annual tech fests',
@@ -48,17 +50,17 @@ export const projectsData: Project[] = [
     ]
   },
   {
-    id: 'calculator',
-    title: 'Calculator',
-    tagline: 'Personal Calculator.',
-    subTagline: '“A digital and profeesional calculator.”',
-    image: 'https://picsum.photos/seed/calculator_full/800/400',
-    demoLink: '#',
-    repoLink: 'https://github.com/Raj saroj/calculator',
+    id: 'ChatFlow',
+    title: 'Real Time Chat Application',
+    tagline: 'real time chat aplicatio is a brand of webforge studios.',
+    subTagline: '“A chatFlow is a real time chat applications.”',
+    image: '/chatflow.jpeg',
+    demoLink: 'https://chat-flow-real-time-chat-applicatio-nine.vercel.app/',
+    repoLink: 'https://github.com/RajSaroj85/ChatFlow-Real--Time-Chat-Application',
     techStack: ['React', 'TypeScript', 'Tailwind CSS', 'Gemini API', 'Vite'],
-    overview: 'this Calculator is desgined by raj saroj and built with Html, CSS and javaScript. It mimics the look and feel of a physical student calculator, complete with paper textures, handwriting fonts, and "taped" photos.',
+    overview: 'A modern real-time chat application designed to make communication fast, simple, and seamless. This platform enables users to connect through instant messaging with live message updates and a smooth, responsive user interface.',
     problem: [
-      'Standard calculator look too corporate and boring',
+      'Standard chatflow look too corporate and boring',
       'Hard to express personality in minimal themes',
       'Lack of interactive elements that feel organic'
     ],
@@ -70,7 +72,7 @@ export const projectsData: Project[] = [
         'Sticky note chat assistant integration',
         'Dark mode "Dark Copy" aesthetic'
       ],
-      summary: 'Design the digital calculator for persoal and real-time uses.'
+      summary: 'Design the digital chatflow for persoal and real-time uses.'
     },
     market: [
       'Creative developers',
@@ -82,35 +84,35 @@ export const projectsData: Project[] = [
     ]
   },
   {
-    id: 'Snake Game',
-    title: 'Dragon Snake',
-    tagline: 'DRS game.',
-    subTagline: '“Leveraging the snake game for playing to all the wprld.”',
-    image: 'https://picsum.photos/seed/snakegame_full/800/400',
-    demoLink: '#',
-    repoLink: 'https://rajsarojtsearch.github.io/Snake-Game/',
-    techStack: ['React', 'Google GenAI SDK', 'Tailwind CSS', 'HTML5 Drag & Drop'],
-    overview: 'An experimental application that uses Google\'s dragon snake games analyse images, playing the game, and count thier score  about visual content in real-time.',
+    id: 'Foodie',
+    title: 'Food Delivery Platform',
+    tagline: 'foodi is real time online food delivery platform for local and another',
+    subTagline: '“Cravings Delivered, Happiness Unlocked Fresh Food Fast Delivery Happy Moments”',
+    image: '/food.jpeg',
+    demoLink: 'https://food-delivery-platform-azure.vercel.app/',
+    repoLink: 'https://github.com/RajSaroj85/Food-Delivery-Platform',
+    techStack: ['React', 'Typscript', 'Tailwind CSS', 'HTML5 Drag & Drop'],
+    overview: 'A modern and user-friendly food delivery platform designed to make online food ordering simple, fast, and convenient. The platform allows customers to explore a variety of restaurants, browse food menus, discover their favorite dishes, and place orders seamlessly.',
     problem: [
-      'Accessing advanced game vision models is often complex',
-      'Lack of simple design  for dragon game for user to interact with vision models'
+      'ime-Consuming Food Ordering – Traditional food ordering processes take too much time',
+      'Limited Restaurant Choices – Customers struggle to discover multiple restaurants in one place.'
     ],
     solution: {
       intro: 'A straightforward interface for Dragon Snake Game:',
       features: [
-        'Clicl to arrow buttons to play the game',
+        'Click on the get start for sign up',
         'Real-time streaming responses',
-        'Contextual playing based on game content'
+        'Contextual chat based on platform content'
       ],
-      summary: 'Democratizing access to multimodal Game.'
+      summary: 'A modern food delivery platform that makes ordering food quick, easy, and convenient. Users can explore restaurants, browse delicious meals, discover their favorite dishes, and enjoy a seamless online ordering experience through a responsive and user-friendly interface.'
     },
     market: [
-      'Game enthusiasts',
+      'Chat enthusiasts',
       'Developers learning to interact with vision models',
       'Accessibility tools'
     ],
     vision: [
-      'To explore the limits of what browser-based dragon snake game integrations can do with zero backend overhead.'
+      'To explore the limits of what browser-based dragon chatflow integrations can do with zero backend overhead.'
     ]
   }
 ];
