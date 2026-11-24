@@ -6,11 +6,11 @@ export const projectsData: Project[] = [
     title: 'GEN AI Virtual Assistant',
     tagline: 'Battleground for the Next Gen Developers.',
     subTagline: '“Hackathons, minithons, and daily contests that push your skills to the next level.”',
-    image: 'https://picsum.photos/seed/prometrion_full/800/400', // Placeholder for full size screenshot
-    demoLink: 'https://example.com/prometrion',
-    repoLink: 'https://github.com/Raj saroj/prometrion',
-    techStack: ['React', 'Node.js', 'MongoDB', 'Socket.io', 'Docker', 'AWS'],
-    overview: 'Prometrion is a next-generation platform that unifies online and offline coding competitions into one seamless ecosystem. It enables companies, colleges, communities, and high-level users to host hackathons, minithons, and daily coding contests—complete with real-time coding collaboration, automated certificate generation, team management, and judging workflows.\n\nPrometrion aims to become the #1 global hub for competitive coding, where coders participate, host, learn, win, and build their identity.',
+    image: '/webforge.jpeg', // Placeholder for full size screenshot
+    demoLink: 'https://web-forge-studios.vercel.app/',
+    repoLink: 'https://github.com/RajSaroj85?tab=repositories',
+    techStack: ['React', 'Typscript', 'Mysql'],
+    overview: 'Web Forge studio is a next-generation platform that unifies online and offline coding competitions into one seamless ecosystem. It enables companies, colleges, communities, and high-level users to host hackathons, minithons, and daily coding contests—complete with real-time coding collaboration, automated certificate generation, team management, and judging workflows.\n\nPrometrion aims to become the #1 global hub for competitive coding, where coders participate, host, learn, win, and build their identity.',
     problem: [
       'Offline events lack submission, judging & certificate systems',
       'Online platforms handle only partial workflows',
