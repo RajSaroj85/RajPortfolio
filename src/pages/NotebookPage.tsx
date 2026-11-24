@@ -251,7 +251,7 @@ export const NotebookPage: React.FC<NotebookPageProps> = ({
 
               <div className="flex items-center gap-3">
                 <Github size={20} className={isDarkMode ? 'text-slate-400' : 'text-slate-600'}/>
-                <a href="https://github.com/rajsarojtsearch" target="_blank" rel="noreferrer" className="font-bold hover:text-blue-500 hover:underline decoration-wavy cursor-pointer">
+                <a href="https://github.com/RajSaroj85" target="_blank" rel="noreferrer" className="font-bold hover:text-blue-500 hover:underline decoration-wavy cursor-pointer">
                   Github/Raj saroj 
                 </a>
               </div>
