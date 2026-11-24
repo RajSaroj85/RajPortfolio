@@ -44,8 +44,8 @@ const cleanText = (text: string): string => {
 
 // Helper: Keyword Map for fallback matching
 const KEYWORD_MAP: Record<string, string> = {
-  'prometrion': 'PROMETRION_INTRO',
-  'startup': 'PROMETRION_INTRO',
+  'Webforge': 'Webforge_INTRO',
+  'startup': 'Webforge_INTRO',
   'skills': 'SKILLS',
   'stack': 'SKILLS',
   'tech': 'SKILLS',
