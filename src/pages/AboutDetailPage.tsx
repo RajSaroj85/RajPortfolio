@@ -53,8 +53,8 @@ export const AboutDetailPage: React.FC<AboutDetailPageProps> = ({
             🚀 Future Goals
           </h3>
           <div className="notebook-text text-xl leading-[2rem]">
-            <p className="font-bold">Building Prometrion.</p>
-            <p>My primary goal is to launch and scale <span className="text-purple-600 font-bold">Prometrion</span> into a global hub for developer competitions.</p>
+            <p className="font-bold">Building Webforge.</p>
+            <p>My primary goal is to launch and scale <span className="text-purple-600 font-bold">Webforge</span> into a global hub for developer competitions.</p>
             <p>I envision a future where I am financially independent through my own products, creating value</p>
             <p>for thousands of users. I want to transition from a student builder to a full-time founder.</p>
           </div>
@@ -106,8 +106,8 @@ export const AboutDetailPage: React.FC<AboutDetailPageProps> = ({
               <Twitter size={20} /> Twitter
             </a>
             <span className="text-gray-400">|</span>
-            <a href="https://prometrion.com" target="_blank" className="flex items-center gap-2 hover:text-blue-500 font-bold hover:underline decoration-wavy">
-                Prometrion          
+            <a href="https://Webforge.com" target="_blank" className="flex items-center gap-2 hover:text-blue-500 font-bold hover:underline decoration-wavy">
+                Webforge          
               </a>
           </div>
         </section>
@@ -181,9 +181,9 @@ export const AboutDetailPage: React.FC<AboutDetailPageProps> = ({
             </div>
             <div className="relative">
               <div className="absolute -left-[31px] top-2 w-4 h-4 bg-purple-500 rounded-full border-2 border-white animate-pulse"></div>
-              <h4 className="notebook-text text-xl font-bold leading-[2rem]">The Prometrion Era (Now)</h4>
+              <h4 className="notebook-text text-xl font-bold leading-[2rem]">The Webforge Era (Now)</h4>
               <p className="notebook-text text-lg leading-[2rem]">
-                Today, I am channeling all my energy into Prometrion. I am learning about system design,
+                Today, I am channeling all my energy into Webforge. I am learning about system design,
                 user acquisition, and what it takes to run a tech startup. The journey has just begun!
               </p>
             </div>
