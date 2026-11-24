@@ -10,7 +10,7 @@ export const projectsData: Project[] = [
     demoLink: 'https://web-forge-studios.vercel.app/',
     repoLink: 'https://github.com/RajSaroj85?tab=repositories',
     techStack: ['React', 'Typscript', 'Mysql'],
-    overview: 'WebForge Studio is a modern web development studio dedicated to building creative, responsive, and user-friendly digital experiences. We specialize in custom website development, React and TypeScript applications, e-commerce websites, portfolio websites, and modern web applications.\n\nOur focus is on creating visually appealing, fast, secure, and mobile-friendly websites that help businesses establish a strong online presence. From creative UI/UX design to functional web solutions, we aim to turn ideas into impactful digital experiences.
+    overview: 'WebForge Studio is a modern web development studio dedicated to building creative, responsive, and user-friendly digital experiences. We specialize in custom website development, React and TypeScript applications, e-commerce websites, portfolio websites, and modern web applications.\n\nOur focus is on creating visually appealing, fast, secure, and mobile-friendly websites that help businesses establish a strong online presence. From creative UI/UX design to functional web solutions, we aim to turn ideas into impactful digital experiences.'
 
 ',
     problem: [
