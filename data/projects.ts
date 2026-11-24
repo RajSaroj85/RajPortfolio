@@ -10,7 +10,7 @@ export const projectsData: Project[] = [
     demoLink: 'https://web-forge-studios.vercel.app/',
     repoLink: 'https://github.com/RajSaroj85?tab=repositories',
     techStack: ['React', 'Typscript', 'Mysql'],
-    overview: 'WebForge Studio is a modern web development studio dedicated to building creative, responsive, and user-friendly digital experiences. We specialize in custom website development, React and TypeScript applications, e-commerce websites, portfolio websites, and modern web applications.\n\nOur focus is on creating visually appealing, fast, secure, and mobile-friendly websites that help businesses establish a strong online presence. From creative UI/UX design to functional web solutions, we aim to turn ideas into impactful digital experiences.',
+    overview: 'Prometrion is a next-generation platform that unifies online and offline coding competitions into one seamless ecosystem. It enables companies, colleges, communities, and high-level users to host hackathons, minithons, and daily coding contests—complete with real-time coding collaboration, automated certificate generation, team management, and judging workflows.\n\nPrometrion aims to become the #1 global hub for competitive coding, where coders participate, host, learn, win, and build their identity.',
     problem: [
       'Offline events lack submission, judging & certificate systems',
       'Online platforms handle only partial workflows',
@@ -32,7 +32,7 @@ export const projectsData: Project[] = [
         'Certificates (Gold, Silver, Participant)',
         'Leveling, Badges & Gamified User Growth'
       ],
-      summary: 'Webforge becomes a coder’s competition profile + portfolio + skill identity.'
+      summary: 'Webforge becomes a coder’s competition profile + portfolio + skill identity'
     },
     market: [
       'India: 8,000+ colleges, 40,000+ annual tech fests',
@@ -56,9 +56,9 @@ export const projectsData: Project[] = [
     demoLink: 'https://chat-flow-real-time-chat-applicatio-nine.vercel.app/',
     repoLink: 'https://github.com/RajSaroj85/ChatFlow-Real--Time-Chat-Application',
     techStack: ['React', 'TypeScript', 'Tailwind CSS', 'Gemini API', 'Vite'],
-    overview: 'A modern real-time chat application designed to make communication fast, simple, and seamless. This platform enables users to connect through instant messaging with live message updates and a smooth, responsive user interface.',
+    overview: 'this Calculator is desgined by raj saroj and built with Html, CSS and javaScript. It mimics the look and feel of a physical student calculator, complete with paper textures, handwriting fonts, and "taped" photos.',
     problem: [
-      'Standard chatflow look too corporate and boring',
+      'Standard calculator look too corporate and boring',
       'Hard to express personality in minimal themes',
       'Lack of interactive elements that feel organic'
     ],
@@ -90,10 +90,10 @@ export const projectsData: Project[] = [
     demoLink: 'https://food-delivery-platform-azure.vercel.app/',
     repoLink: 'https://github.com/RajSaroj85/Food-Delivery-Platform',
     techStack: ['React', 'Typscript', 'Tailwind CSS', 'HTML5 Drag & Drop'],
-    overview: 'A modern and user-friendly food delivery platform designed to make online food ordering simple, fast, and convenient. The platform allows customers to explore a variety of restaurants, browse food menus, discover their favorite dishes, and place orders seamlessly.',
+   overview: 'An experimental application that uses Google\'s dragon snake games analyse images, playing the game, and count thier score  about visual content in real-time.',
     problem: [
-      'ime-Consuming Food Ordering – Traditional food ordering processes take too much time',
-      'Limited Restaurant Choices – Customers struggle to discover multiple restaurants in one place.'
+      'Accessing advanced game vision models is often complex',
+      'Lack of simple design  for dragon game for user to interact with vision models'
     ],
     solution: {
       intro: 'A straightforward interface for Dragon Snake Game:',
@@ -102,7 +102,7 @@ export const projectsData: Project[] = [
         'Real-time streaming responses',
         'Contextual chat based on platform content'
       ],
-      summary: 'A modern food delivery platform that makes ordering food quick, easy, and convenient. Users can explore restaurants, browse delicious meals, discover their favorite dishes, and enjoy a seamless online ordering experience through a responsive and user-friendly interface.'
+      summary: 'A modern food delivery platform that makes ordering food quick.'
     },
     market: [
       'Chat enthusiasts',
