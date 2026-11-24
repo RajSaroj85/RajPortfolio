@@ -10,7 +10,7 @@ export const projectsData: Project[] = [
     demoLink: 'https://web-forge-studios.vercel.app/',
     repoLink: 'https://github.com/RajSaroj85?tab=repositories',
     techStack: ['React', 'Typscript', 'Mysql'],
-    overview: 'Prometrion is a next-generation platform that unifies online and offline coding competitions into one seamless ecosystem. It enables companies, colleges, communities, and high-level users to host hackathons, minithons, and daily coding contests—complete with real-time coding collaboration, automated certificate generation, team management, and judging workflows.\n\nPrometrion aims to become the #1 global hub for competitive coding, where coders participate, host, learn, win, and build their identity.',
+    overview: 'Webforge is a next-generation platform that unifies online and offline coding competitions into one seamless ecosystem. It enables companies, colleges, communities, and high-level users to host hackathons, minithons, and daily coding contests—complete with real-time coding collaboration, automated certificate generation, team management, and judging workflows.\n\nWebforge aims to become the #1 global hub for competitive coding, where coders participate, host, learn, win, and build their identity.',
     problem: [
       'Offline events lack submission, judging & certificate systems',
       'Online platforms handle only partial workflows',
@@ -39,12 +39,12 @@ export const projectsData: Project[] = [
       'Global hackathon industry growing rapidly',
       'No dominant hybrid (online + offline) platform',
       'Large unmet demand from colleges & companies',
-      'Prometrion fills a crucial gap with an end-to-end solution.'
+      'Webforge fills a crucial gap with an end-to-end solution.'
     ],
     vision: [
       '“The name every coder remembers when they think of hackathons, and coding competition.”',
       'A global competition universe where coders: Build real projects, Compete & win, Earn recognition, Get hired',
-      'Prometrion aims to be the default platform for all coding competitions worldwide.'
+      'Webforge aims to be the default platform for all coding competitions worldwide.'
     ]
   },
   {
